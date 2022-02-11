@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on StatOmique</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on StatOmique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Méthodes de déconcolution</title>
+      <link>/2021/11/16/deconvolution/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/11/16/deconvolution/</guid>
+      <description>Programme de la journée   9h30 Accueil café
+  10h A variable selection approach for highly correlated predictors in high-dimensional data Wencan Zhu (UMR MIA-Paris, AgroParisTech, INRAE – Université Paris-Saclay, Sanofi R&amp;amp;D)
+  Résumé : In genomic studies, identifying biomarkers associated with a variable of interest is a major concern in biomedical research. Regularized approaches are classically used to performvariable selection in high-dimensional linear models. However, these methods can fail in highly correlated settings.</description>
+    </item>
+    
+    <item>
+      <title>Kernel methods in systems biology</title>
+      <link>/2021/04/06/kernel-methods-in-systems-biology/</link>
+      <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
+      
+      <guid>/2021/04/06/kernel-methods-in-systems-biology/</guid>
+      <description>Jérôme Mariette : Kernel methods in systems biology Plateforme Genotoul Bioinfo, Unité de Mathématique et Informatique Appliquées de Toulouse, INRAE
+The development of high-throughput sequencing technologies has lead to produce high dimensional heterogeneous datasets at different living scales. To process such data, integrative methods have been shown to be relevant, but still remain challenging. Here, we propose contributions useful to simultaneously explore heterogeneous multi-omics datasets and to select relevant features in a dataset.</description>
+    </item>
+    
+    <item>
+      <title>Analyse de données transcriptomiques</title>
+      <link>/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</link>
+      <pubDate>Thu, 19 Nov 2020 21:49:57 -0700</pubDate>
+      
+      <guid>/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</guid>
+      <description>Programme de cette première animation en mode distanciel   9h45 Accueil et Tour de table dans le chat
+  10h15 Méthodes d&amp;rsquo;identification de différence de variance dans des données RNA-seq, Christophe Le Priol
+  Résumé : La majorité des études sur l&amp;rsquo;expression des gènes cherchent à identifier des gènes présentant des différences de moyenne d’expression entre plusieurs populations d’échantillons. Cependant, à l’instar d’une différence de moyenne, une différence de variance d&amp;rsquo;expression de gènes peut avoir un sens biologique et physiologique.</description>
+    </item>
+    
+    <item>
+      <title>StatOmique fête ses 10 ans</title>
+      <link>/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</link>
+      <pubDate>Tue, 05 Nov 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</guid>
+      <description>Le 5 novembre 2019, précédant la journée du Gdr BioInformatique Moléculaire, s&amp;rsquo;est tenue une journée d&amp;rsquo;animation pour les 10 ans du groupe StatOmique.
+Programme :
+Matin
+10h00-10h15 Introduction de la matinée 10h15-10h40 Perrine Soret, retour d’expériences sur le clustering sur de données RNASeq 10h40-11h00 Luc Jouneau, présentation de la procédure de tests multiples ‘Independent hypothesis weighting (IHW)’ 11h00-11h30 Marine Gauthier, ‘Conditional cumulative distribution function estimation for differential gene expression analysis in single-cell RNA-seq data’ 11h30-12h00 Julie Aubert, présentation des ressources mises à disposition par le groupe StateoftheR 12h00-12h15 Laurent Duval, An epigenetic data processing bud @ StatOmique ?</description>
+    </item>
+    
+  </channel>
+</rss>
