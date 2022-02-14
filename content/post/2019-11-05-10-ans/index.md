@@ -40,12 +40,12 @@ Les supports sont disponibles sur la page de la journée www.gdr-bim.cnrs.fr/sta
 
 #### Packages Bioconductor
 
-[ihw (Independent hypothesis weighting)](doi.org/doi:10.18129/B9.bioc.IHW)  
-[iSEE(Interactive Summarized Experiment Explorer)](doi.org/doi:10.18129/B9.bioc.iSEE)  
+[ihw (Independent hypothesis weighting)](https://doi.org/doi:10.18129/B9.bioc.IHW)  
+[iSEE(Interactive Summarized Experiment Explorer)](https://doi.org/doi:10.18129/B9.bioc.iSEE)  
 
 #### Article
 
 **Evaluation of integrative clustering methods for the analysis of multi-omics data**
 Cécile Chauvel, Alexei Novoloaca, Pierre Veyre, Frédéric Reynier, Jérémie Becker
 _Briefings in Bioinformatics_, Volume 21, Issue 2, March 2020, Pages 541–552
-[doi.org/10.1093/bib/bbz015](doi.org/10.1093/bib/bbz015)  
+[doi.org/10.1093/bib/bbz015](https://doi.org/10.1093/bib/bbz015)  

@@ -17,6 +17,6 @@ The proposed methods efficiency is highlighted in the domain of microbial ecolog
 
 #### References  
 
-[package R mixKernel](cran.r-project.org/package=mixKernel) [site mixKernel](http://mixkernel.clementine.wf/)  
+[package R mixKernel](https://cran.r-project.org/package=mixKernel) [site mixKernel](http://mixkernel.clementine.wf/)  
 Mariette, J. and Villa-Vialaneix, N. (2018). **Unsupervised multiple kernel learning for heterogeneous data integration.** _Bioinformatics_, 34(6), 1009-1015
 

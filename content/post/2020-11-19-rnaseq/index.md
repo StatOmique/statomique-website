@@ -14,10 +14,10 @@ Résumé : La majorité des études sur l'expression des gènes cherchent à ide
 
 Christophe Le Priol. [**Variance de l’expression des microARN et des ARN messagers dans le cancer.**
 Bio-Informatique, Biologie Systémique [q-bio.QM]. Université Grenoble Alpes, 2019. Français. NNT :
-2019GREAS023. tel-02469341](tel.archives-ouvertes.fr/tel-02469341)
+2019GREAS023. tel-02469341](https://tel.archives-ouvertes.fr/tel-02469341)
 
-- 11h00 **DiCoExpress: a tool to process multifactorial RNAseq experiments from quality controls to co-expression analysis through differential analysis based on contrasts inside GLM models**, [Marie-Laure Martin-Magniette](www6.inrae.fr/mia-paris/Equipes/Membres/Marie-Laure-Martin-Magniette)
+- 11h00 **DiCoExpress: a tool to process multifactorial RNAseq experiments from quality controls to co-expression analysis through differential analysis based on contrasts inside GLM models**, [Marie-Laure Martin-Magniette](https://www6.inrae.fr/mia-paris/Equipes/Membres/Marie-Laure-Martin-Magniette)
 
-<plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00611-7>
+Lambert, I., Paysant-Le Roux, C., Colella, S. et al. **DiCoExpress: a tool to process multifactorial RNAseq experiments from quality controls to co-expression analysis through differential analysis based on contrasts inside GLM models.** _Plant Methods_ 16, 68 (2020). [https://doi.org/10.1186/s13007-020-00611-7](https://doi.org/10.1186/s13007-020-00611-7)
 
 - 11h30 Discussion sur le fonctionnement de StatOmique et les événements à venir 

@@ -23,7 +23,7 @@ account. It consists in rewriting the initial high-dimensional linear model to r
 - 11h **Comparaison de méthodes de déconvolution de bulk RNA-Seq pour l'étude de l'infection par la fièvre Lassa**
 Emeline Perthame (Hub de Bioinformatique et Biostatistique, Institut Pasteur), en collaboration avec Natalia Pietrosemoli et Hélène Lopez-Maestre (Hub de Bioinformatique et Biostatistique, Institut Pasteur) et Sylvain Baize (PI de l'unité de Biologie des infections virales émergentes, Institut Pasteur)
 
-Résumé : On s'intéresse à un [jeu de données transcriptomiques dans lequel la cinétique d'infection par la fièvre Lassa est étudiée](doi.org/10.1038/s42003-020-01543-7). Les chercheurs s'intéressent à la comparaison de la pénétrance du virus dans différents tissus et organes. En particulier, ils s'intéressent à l'inférence des proportions de types cellulaires pour différentes souches du virus. Dans cet exposé, nous présenterons brièvement les données et leur plan d'expériences, puis nous présenterons une comparaison des différentes méthodes de déconvolution que nous avons appliquées (dont CIBERSORT, méthode vraisemblablement la plus connue/utilisée) et enfin des éléments d'interprétation des résultats de ces analyses. Nous verrons notamment que la méthode de normalisation des comptages, ainsi que la qualité de la matrice de signature caractérisant les types cellulaires ont un impact considérable sur les résultats.  
+Résumé : On s'intéresse à un [jeu de données transcriptomiques dans lequel la cinétique d'infection par la fièvre Lassa est étudiée](https://doi.org/10.1038/s42003-020-01543-7). Les chercheurs s'intéressent à la comparaison de la pénétrance du virus dans différents tissus et organes. En particulier, ils s'intéressent à l'inférence des proportions de types cellulaires pour différentes souches du virus. Dans cet exposé, nous présenterons brièvement les données et leur plan d'expériences, puis nous présenterons une comparaison des différentes méthodes de déconvolution que nous avons appliquées (dont CIBERSORT, méthode vraisemblablement la plus connue/utilisée) et enfin des éléments d'interprétation des résultats de ces analyses. Nous verrons notamment que la méthode de normalisation des comptages, ainsi que la qualité de la matrice de signature caractérisant les types cellulaires ont un impact considérable sur les résultats.  
                                                                                                            - 12-13h30 Pause déjeuner   
                                                                                                                                                                                                                       - 13h30 **Medepir - un guide pour la déconvolution non-supervisée de données de méthylation de l'ADN**
 Clémentine Decamps (TIMC-IMAG, UMR 5525, Univ. Grenoble Alpes, CNRS)   
@@ -36,18 +36,18 @@ Résumé : Application de Cibersort dans le cadre d'un essai clinique (COVERAGE 
 
 #### Quelques références
 
-**WLasso:** [package R WLasso](cran.r-project.org/package=WLasso/)  
+**WLasso:** [package R WLasso](https://cran.r-project.org/package=WLasso/)  
 W. Zhu, C. Levy-Leduc, N. Ternes. **A variable selection approach for highly correlated predictors
-in high-dimensional genomic data.** [arXiv:2007.10768](arXiv:2007.10768)  
+in high-dimensional genomic data.** [arXiv:2007.10768](https://arxiv.org/abs/2007.10768)  
 
-**Medepir:** [package R medepir](github.com/bcm-uga/medepir)  
-Decamps, C., Privé, F., Bacher, R. et al. **Guidelines for cell-type heterogeneity quantification based on a comparative analysis of reference-free DNA methylation deconvolution software.** _BMC Bioinformatics_ 21, 16 (2020). [doi.org/10.1186/s12859-019-3307-2](doi.org/10.1186/s12859-019-3307-2)
+**Medepir:** [package R medepir](https://github.com/bcm-uga/medepir)  
+Decamps, C., Privé, F., Bacher, R. et al. **Guidelines for cell-type heterogeneity quantification based on a comparative analysis of reference-free DNA methylation deconvolution software.** _BMC Bioinformatics_ 21, 16 (2020). [doi.org/10.1186/s12859-019-3307-2](https://doi.org/10.1186/s12859-019-3307-2)
 
-Baillet, N., Reynard, S., Perthame, E. et al. Systemic viral spreading and defective host responses are associated with fatal Lassa fever in macaques. Commun Biol 4, 27 (2021). [doi.org/10.1038/s42003-020-01543-7](doi.org/10.1038/s42003-020-01543-7)  
-Shen-Orr, S., Tibshirani, R., Khatri, P. et al. **Cell type–specific gene expression differences in complex tissues.** _Nat Methods_ 7, 287–289 (2010). [doi.org/10.1038/nmeth.1439](doi.org/10.1038/nmeth.1439)  
-doi.org/10.1038/nmeth.1439  
+Baillet, N., Reynard, S., Perthame, E. et al. Systemic viral spreading and defective host responses are associated with fatal Lassa fever in macaques. Commun Biol 4, 27 (2021). [doi.org/10.1038/s42003-020-01543-7](https://doi.org/10.1038/s42003-020-01543-7)  
+Shen-Orr, S., Tibshirani, R., Khatri, P. et al. **Cell type–specific gene expression differences in complex tissues.** _Nat Methods_ 7, 287–289 (2010). [doi.org/10.1038/nmeth.1439](https://doi.org/10.1038/nmeth.1439)  
+ 
 **Cibersort:**
-Newman, A.M., Steen, C.B., Liu, C.L. et al. **Determining cell type abundance and expression from bulk tissues with digital cytometry.** _Nat Biotechnol_ 37, 773–782 (2019). [doi.org/10.1038/s41587-019-0114-2](doi.org/10.1038/s41587-019-0114-2)
+Newman, A.M., Steen, C.B., Liu, C.L. et al. **Determining cell type abundance and expression from bulk tissues with digital cytometry.** _Nat Biotechnol_ 37, 773–782 (2019). [doi.org/10.1038/s41587-019-0114-2](https://doi.org/10.1038/s41587-019-0114-2)
 
 
                                                                                              
