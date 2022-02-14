@@ -40,7 +40,7 @@ Résumé : Application de Cibersort dans le cadre d'un essai clinique (COVERAGE 
 W. Zhu, C. Levy-Leduc, N. Ternes. **A variable selection approach for highly correlated predictors
 in high-dimensional genomic data.** [arXiv:2007.10768](arXiv:2007.10768)  
 
-**Medepir::** [package R medepir](github.com/bcm-uga/medepir)  
+**Medepir:** [package R medepir](github.com/bcm-uga/medepir)  
 Decamps, C., Privé, F., Bacher, R. et al. **Guidelines for cell-type heterogeneity quantification based on a comparative analysis of reference-free DNA methylation deconvolution software.** _BMC Bioinformatics_ 21, 16 (2020). [doi.org/10.1186/s12859-019-3307-2](doi.org/10.1186/s12859-019-3307-2)
 
 Baillet, N., Reynard, S., Perthame, E. et al. Systemic viral spreading and defective host responses are associated with fatal Lassa fever in macaques. Commun Biol 4, 27 (2021). [doi.org/10.1038/s42003-020-01543-7](doi.org/10.1038/s42003-020-01543-7)  
