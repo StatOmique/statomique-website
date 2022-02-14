@@ -1,6 +1,6 @@
-baseurl: /
+baseurl: https://statomique.netlify.app
 languageCode: en-us
-title: StatOmique
+title: statomique
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
