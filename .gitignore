@@ -44,7 +44,7 @@ vignettes/*.pdf
 Thumbs.db
 
 # other directories
- /public/
- /resources/
+/public/
+/resources/
 
 
