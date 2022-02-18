@@ -34,7 +34,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: ../media/statomique.png
+    url: ../media/StatOmique_reseau_logo.jpg
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
