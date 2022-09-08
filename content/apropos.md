@@ -17,6 +17,6 @@ StatOmique est soutenu par le <img src="../media/logo_gdr_new.svg" alt="gdr Bioi
 
 ### Références
 
-Le [poster](../media/PosterA0-StatOmique-Jobim2018-V3.pdf) que nous avons présenté à JOBIM en 2008 pour décrire notre réseau.
+Le [poster](../media/PosterA0-StatOmique-Jobim2018-V3.pdf) que nous avons présenté à JOBIM en 2018 pour décrire notre réseau.
 
 Marie-Agnès Dillies, Andrea Rau, Julie Aubert, Christelle Hennequet-Antier, Marine Jeanmougin, Nicolas Servant, Céline Keime, Guillemette Marot, David Castel, Jordi Estelle, Gregory Guernec, Bernd Jagla, Luc Jouneau, Denis Laloë, Caroline Le Gall, Brigitte Schaëffer, Stéphane Le Crom, Mickaël Guedj, Florence Jaffrézic, on behalf of The French StatOmique Consortium, **A comprehensive evaluation of normalization methods for Illumina high-throughput RNA sequencing data analysis**, *Briefings in Bioinformatics*, Volume 14, Issue 6, November 2013, Pages 671–683, [doi.org/10.1093/bib/bbs046/](https://doi.org/10.1093/bib/bbs046)
