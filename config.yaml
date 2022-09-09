@@ -1,7 +1,7 @@
 baseurl: https://statomique.netlify.app
 languageCode: en-us
 title: statomique
-theme: hugo-lithium
+theme: hugo-ananke
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
