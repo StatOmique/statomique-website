@@ -1,7 +1,7 @@
 ---
 title: Analyse différentielle d’expression de gènes
 author: ''
-date: '2022-30-09'
+date: '2022-09-30'
 slug: newrnaseq
 categories: []
 tags: [rnaseq]
