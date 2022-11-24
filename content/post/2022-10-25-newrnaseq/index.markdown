@@ -17,7 +17,7 @@ Les infos pour venir sur le campus depuis le site de l'école [ici](https://www.
 
 - 10h30 [Introduction](../../../../media/statomique25102022.pdf) et tour de table
 
-- 10h45 **Benchmark of Differential Gene Expression Analysis Methods for Inter-species RNA-Seq Data using a Phylogenetic Simulation Framework** , Paul Bastide, IMAG – UMR 5149
+- 10h45 [**Benchmark of Differential Gene Expression Analysis Methods for Inter-species RNA-Seq Data using a Phylogenetic Simulation Framework**](../../../../media/StatOmique2022-PBastide.pdf), Paul Bastide, IMAG – UMR 5149
 
 #### Abstract 
 
@@ -69,7 +69,7 @@ ABEILLE source code is freely available at [https://github.com/UCA-MSI/ABEILLE](
 
 - Pause déjeuner
 
-- 13:45 **Analyse de cribles génétiques CRISPR-Cas9.** Pierre Gestraud, Institut Curie
+- 13:45 [**Analyse de cribles génétiques CRISPR-Cas9.**](../../../../media/StatOmique2022-PGestraud.pdf) Pierre Gestraud, Institut Curie
 
 #### Résumé
 
