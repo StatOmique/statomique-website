@@ -31,7 +31,7 @@ Bastide, P., Soneson, C., Lespinet, O., Gallopin, M. **Benchmark of Differential
 Soneson C (2014). **compcodeR - an R package for benchmarking differential expression methods for RNA-seq data.** _Bioinformatics_, 30(17), 2517-2518.
 
 
-- 11h45 **ABEILLE: a novel method for ABerrant Expression Identification empLoying machine Learning from RNA-sequencing data.**, Justine Labory, Medical Data Laboratory, Université Côte d’Azur
+- 11h45 [**ABEILLE: a novel method for ABerrant Expression Identification empLoying machine Learning from RNA-sequencing data.**](../../../../media/StatOmique2022-presJLabory.pdf), Justine Labory, Medical Data Laboratory, Université Côte d’Azur
 
 #### Abstract 
 
