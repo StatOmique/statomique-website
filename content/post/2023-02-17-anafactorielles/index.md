@@ -8,11 +8,21 @@ tags: [factor analysis]
 
 Nous avons le plaisir de vous annoncer la prochaine journée StatOmique, sur le thème des **analyses factorielles**, **le Jeudi 30 Mars 2023**, sur le [centre INRAE de Jouy-en-Josas](https://www.inrae.fr/centres/ile-france-jouy-josas-antony), à partir de 13h30.
 
-
 Cette journée sera consacrée aux analyses factorielles et à leur efficacité computationnelle au regard des enjeux liés à l’intégration de données hétérogènes et de grande dimension.
 
+### Programme prévisionnel :
 
-Toutes les informations d’accès et le programme sont disponibles sur le site web
+- _13h30_ _Accueil - café_
+- 13h45 Denis Laloë : Introduction 
+- 14h00 Stéphane Dray : « **De l'écologie des communautés à la génomique : apport des méthodes d'analyses multivariées** » 
+- 14h50 Stéphanie Bougeard   : « **Analyses factorielles multiblocs supervisées** » 
+- _15h40_ _Pause_ 
+- 16h10 Julien Chiquet : « **ACP probabiliste pour données de comptages et extensions à l'aide du modèle Poisson lognormal multivarié** » 
+- 17h00 Renaud Rincent : « **Le coefficient de détermination généralisé, de l'étable aux champs** » 
+- 17h30 Véronique Duranthon : « **Application des analyses factorielles à la recherche de dimorphismes sexuels dans l’embryon et le foetus bovin** » 
+- 18h00 Discussion puis _Cocktail dinatoire_ 
+
+Toutes les informations (accès et programme téléchargeable) sont disponibles sur le site web
 
 https://analyses-factorielles.journees.inrae.fr/
 
