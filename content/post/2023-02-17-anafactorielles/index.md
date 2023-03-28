@@ -13,7 +13,7 @@ Cette journée sera consacrée aux analyses factorielles et à leur efficacité 
 ### Programme prévisionnel :
 
 - _13h30_ _Accueil - café_
-- 13h45 Denis Laloë : Introduction 
+- 13h45 Denis Laloë : « **De la diversité des bovins (GALIMED) au comportement des truies (WHATSOW) : un voyage au pays des analyses factorielles** » 
 - 14h00 Stéphane Dray : « **De l'écologie des communautés à la génomique : apport des méthodes d'analyses multivariées** » 
 - 14h50 Stéphanie Bougeard   : « **Analyses factorielles multiblocs supervisées** » 
 - _15h40_ _Pause_ 
@@ -25,8 +25,6 @@ Cette journée sera consacrée aux analyses factorielles et à leur efficacité 
 Toutes les informations (accès et programme téléchargeable) sont disponibles sur le site web
 
 https://analyses-factorielles.journees.inrae.fr/
-
-L’inscription est gratuite mais obligatoire pour faciliter l’organisation. Nous vous remercions de remplir le formulaire avant le 20 mars, svp
 
 Comité de programme et d’organisation – StatOmique et Unité GABI INRAE
 
