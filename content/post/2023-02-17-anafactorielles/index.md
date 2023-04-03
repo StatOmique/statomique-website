@@ -17,7 +17,7 @@ Cette journée sera consacrée aux analyses factorielles et à leur efficacité 
 - 14h00 Stéphane Dray : [**De l'écologie des communautés à la génomique : apport des méthodes d'analyses multivariées**](../../../../media/2023mars/02-pres-SDray.pdf)
 - 14h50 Stéphanie Bougeard   : [**Analyses factorielles multiblocs supervisées**](../../../../media/2023mars/03-Bougeard-Inrae23.pdf) 
 - _15h40_ _Pause_ 
-- 16h10 Julien Chiquet : **ACP probabiliste pour données de comptages et extensions à l'aide du modèle Poisson lognormal multivarié** 
+- 16h10 Julien Chiquet : [**ACP probabiliste pour données de comptages et extensions à l'aide du modèle Poisson lognormal multivarié**](https://pln-team.github.io/slideshow/) 
 
 [site de PLNmodels](https://pln-team.github.io/PLNmodels/)
 - 17h00 Renaud Rincent : [**Le coefficient de détermination généralisé, de l'étable aux champs**](../../../../media/2023mars/05-RRincentCDgeneralise.pptx) 
