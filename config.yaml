@@ -14,11 +14,15 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Accueil
+    - name: "Accueil"
       url: /about/
-    - name: Animations
+    - name: "Animations"
       url: /post/
-    - name: Apropos
+    - name: "Communauté"
+      url: /communaute/    
+    - name: "Communications"
+      url: /communications/   
+    - name: "Organisation"
       url: /apropos/   
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
