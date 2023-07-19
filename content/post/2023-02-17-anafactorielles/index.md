@@ -1,14 +1,14 @@
 ---
 title: Analyses factorielles
-date: '2023-02-17'
+date: '2023-03-30'
 slug: anafactorielles
 categories: []
 tags: [factor analysis]
 ---
 
-Nous avons le plaisir de vous annoncer la prochaine journée StatOmique, sur le thème des **analyses factorielles**, **le Jeudi 30 Mars 2023**, sur le [centre INRAE de Jouy-en-Josas](https://www.inrae.fr/centres/ile-france-jouy-josas-antony), à partir de 13h30.
+Le Jeudi 30 Mars 2023 a eu lieu sur le [centre INRAE de Jouy-en-Josas](https://www.inrae.fr/centres/ile-france-jouy-josas-antony) une journée StatOmique, sur le thème des **analyses factorielles**.
 
-Cette journée sera consacrée aux analyses factorielles et à leur efficacité computationnelle au regard des enjeux liés à l’intégration de données hétérogènes et de grande dimension.
+Cette journée était consacrée aux analyses factorielles et à leur efficacité computationnelle au regard des enjeux liés à l’intégration de données hétérogènes et de grande dimension. Nous remercions tous les orateurs et participants.
 
 ### Programme
 
