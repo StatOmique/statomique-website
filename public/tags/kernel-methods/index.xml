@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kernel methods on StatOmique</title>
-    <link>/tags/kernel-methods/</link>
-    <description>Recent content in kernel methods on StatOmique</description>
+    <title>kernel methods on statomique</title>
+    <link>https://statomique.netlify.app/tags/kernel-methods/</link>
+    <description>Recent content in kernel methods on statomique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Apr 2021 21:13:14 -0500</lastBuildDate><atom:link href="/tags/kernel-methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 21:13:14 -0500</lastBuildDate><atom:link href="https://statomique.netlify.app/tags/kernel-methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kernel methods in systems biology</title>
-      <link>/2021/04/06/kernel-methods-in-systems-biology/</link>
+      <link>https://statomique.netlify.app/2021/04/06/kernel-methods-in-systems-biology/</link>
       <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
       
-      <guid>/2021/04/06/kernel-methods-in-systems-biology/</guid>
+      <guid>https://statomique.netlify.app/2021/04/06/kernel-methods-in-systems-biology/</guid>
       <description>Jérôme Mariette : Kernel methods in systems biology Plateforme Genotoul Bioinfo, Unité de Mathématique et Informatique Appliquées de Toulouse, INRAE
 The development of high-throughput sequencing technologies has lead to produce high dimensional heterogeneous datasets at different living scales. To process such data, integrative methods have been shown to be relevant, but still remain challenging. Here, we propose contributions useful to simultaneously explore heterogeneous multi-omics datasets and to select relevant features in a dataset.</description>
     </item>
