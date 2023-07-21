@@ -2,7 +2,7 @@
 title: Journées du GDR BIM
 author: ''
 date: '2023-07-19'
-slug: satelliteagbim
+slug: journeegdrBIM
 categories: [workshop]
 tags: [transcriptomique, mutli-omiques, données manquantes]
 ---
