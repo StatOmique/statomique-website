@@ -1,36 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on StatOmique</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on StatOmique</description>
+    <title>Tags on statomique</title>
+    <link>https://statomique.netlify.app/tags/</link>
+    <description>Recent content in Tags on statomique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Apr 2021 21:13:14 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://statomique.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>données manquantes</title>
+      <link>https://statomique.netlify.app/tags/donn%C3%A9es-manquantes/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/tags/donn%C3%A9es-manquantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mutli-omiques</title>
+      <link>https://statomique.netlify.app/tags/mutli-omiques/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/tags/mutli-omiques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptomique</title>
+      <link>https://statomique.netlify.app/tags/transcriptomique/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/tags/transcriptomique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factor analysis</title>
+      <link>https://statomique.netlify.app/tags/factor-analysis/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/tags/factor-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rnaseq</title>
+      <link>https://statomique.netlify.app/tags/rnaseq/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/tags/rnaseq/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>kernel methods</title>
-      <link>/tags/kernel-methods/</link>
+      <link>https://statomique.netlify.app/tags/kernel-methods/</link>
       <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
       
-      <guid>/tags/kernel-methods/</guid>
+      <guid>https://statomique.netlify.app/tags/kernel-methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multi-omics</title>
-      <link>/tags/multi-omics/</link>
+      <link>https://statomique.netlify.app/tags/multi-omics/</link>
       <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
       
-      <guid>/tags/multi-omics/</guid>
+      <guid>https://statomique.netlify.app/tags/multi-omics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://statomique.netlify.app/tags/r/</link>
       <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://statomique.netlify.app/tags/r/</guid>
       <description></description>
     </item>
     

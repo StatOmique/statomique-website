@@ -2,43 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/2021/11/16/deconvolution/</loc>
+    <loc>https://statomique.netlify.app/categories/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/donn%C3%A9es-manquantes/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/2023/07/19/journeegdrbim/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/mutli-omiques/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/post/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/transcriptomique/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/categories/workshop/</loc>
+    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/2023/03/30/anafactorielles/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/factor-analysis/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/2022/10/25/newrnaseq/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/tags/rnaseq/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/2021/11/16/deconvolution/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
+    <loc>https://statomique.netlify.app/tags/kernel-methods/</loc>
     <lastmod>2021-04-06T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/kernel-methods/</loc>
+    <loc>https://statomique.netlify.app/2021/04/06/kernel-methods-in-systems-biology/</loc>
     <lastmod>2021-04-06T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/2021/04/06/kernel-methods-in-systems-biology/</loc>
+    <loc>https://statomique.netlify.app/tags/multi-omics/</loc>
     <lastmod>2021-04-06T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/multi-omics/</loc>
+    <loc>https://statomique.netlify.app/tags/r/</loc>
     <lastmod>2021-04-06T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/r/</loc>
+    <loc>https://statomique.netlify.app/categories/r/</loc>
     <lastmod>2021-04-06T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2021-04-06T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-06T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</loc>
+    <loc>https://statomique.netlify.app/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</loc>
     <lastmod>2020-11-19T21:49:57-07:00</lastmod>
   </url><url>
-    <loc>/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</loc>
+    <loc>https://statomique.netlify.app/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</loc>
     <lastmod>2019-11-05T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://statomique.netlify.app/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>https://statomique.netlify.app/communaute/</loc>
+  </url><url>
+    <loc>https://statomique.netlify.app/communications/</loc>
+  </url><url>
+    <loc>https://statomique.netlify.app/apropos/</loc>
   </url>
 </urlset>

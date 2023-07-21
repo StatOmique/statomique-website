@@ -6,11 +6,11 @@
 <meta name="generator" content="Hugo 0.88.1" />
 
 
-<title>Méthodes de déconcolution - StatOmique</title>
-<meta property="og:title" content="Méthodes de déconcolution - StatOmique">
+<title>Sélection de variables et méthodes de déconvolution - statomique</title>
+<meta property="og:title" content="Sélection de variables et méthodes de déconvolution - statomique">
 
 
-  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+  <link href='https://statomique.netlify.app/favicon.ico' rel='icon' type='image/x-icon'/>
 
 
 
@@ -33,19 +33,23 @@
       <header class="header">
         <nav class="nav">
   <a href="/" class="nav-logo">
-    <img src="/images/logo.png"
-         width="50"
-         height="50"
+    <img src="/media/StatOmique_reseau_logo.jpg"
+         width="60"
+         height="60"
          alt="Logo">
   </a>
 
   <ul class="nav-links">
     
-    <li><a href="/about/">About</a></li>
+    <li><a href="/about/">Accueil</a></li>
     
-    <li><a href="/animations/">Animations</a></li>
+    <li><a href="/post/">Animations</a></li>
     
-    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
+    <li><a href="/communaute/">Communauté</a></li>
+    
+    <li><a href="/communications/">Communications</a></li>
+    
+    <li><a href="/apropos/">Organisation</a></li>
     
   </ul>
 </nav>
@@ -57,10 +61,10 @@
 
   <article class="article">
     
-    <span class="article-duration">3 min read</span>
+    <span class="article-duration">4 min read</span>
     
 
-    <h1 class="article-title">Méthodes de déconcolution</h1>
+    <h1 class="article-title">Sélection de variables et méthodes de déconvolution</h1>
 
     
     <span class="article-date">2021-11-16</span>
@@ -79,27 +83,31 @@ Wencan Zhu (UMR MIA-Paris, AgroParisTech, INRAE – Université Paris-Saclay, Sa
 </ul>
 <p>Résumé : In genomic studies, identifying biomarkers associated with a variable of interest is a major
 concern in biomedical research. Regularized approaches are classically used to performvariable selection
-in high-dimensional linear models. However, these methods can fail in highly correlated settings.
+in high-dimensional linear models. However, these methods can fail in highly correlated settings.<br>
 Results: We propose a novel variable selection approach called WLasso, taking these correlations into
-account. It consists in rewriting the initial high-dimensional linear model to remove the correlation between
-the biomarkers (predictors) and in applying the generalized Lasso criterion. The performance of WLasso is
-assessed using synthetic data in several scenarios and compared with recent alternative approaches. The
-results show that when the biomarkers are highly correlated, WLasso outperforms the other approaches in
-sparse high-dimensional frameworks.</p>
+account. It consists in rewriting the initial high-dimensional linear model to remove the correlation between the biomarkers (predictors) and in applying the generalized Lasso criterion. The performance of WLasso is assessed using synthetic data in several scenarios and compared with recent alternative approaches. The results show that when the biomarkers are highly correlated, WLasso outperforms the other approaches in sparse high-dimensional frameworks.</p>
 <ul>
 <li>11h <strong>Comparaison de méthodes de déconvolution de bulk RNA-Seq pour l&rsquo;étude de l&rsquo;infection par la fièvre Lassa</strong>
 Emeline Perthame (Hub de Bioinformatique et Biostatistique, Institut Pasteur), en collaboration avec Natalia Pietrosemoli et Hélène Lopez-Maestre (Hub de Bioinformatique et Biostatistique, Institut Pasteur) et Sylvain Baize (PI de l&rsquo;unité de Biologie des infections virales émergentes, Institut Pasteur)</li>
 </ul>
-<p>Résumé : On s&rsquo;intéresse à un jeu de données transcriptomiques dans lequel la cinétique d&rsquo;infection par la fièvre Lassa est étudiée [DOI:10.1038/s42003-020-01543-7]. Les chercheurs s&rsquo;intéressent à la comparaison de la pénétrance du virus dans différents tissus et organes. En particulier, ils s&rsquo;intéressent à l&rsquo;inférence des proportions de types cellulaires pour différentes souches du virus. Dans cet exposé, nous présenterons brièvement les données et leur plan d&rsquo;expériences, puis nous présenterons une comparaison des différentes méthodes de déconvolution que nous avons appliquées (dont CIBERSORT, méthode vraisemblablement la plus connue/utilisée) et enfin des éléments d&rsquo;interprétation des résultats de ces analyses. Nous verrons notamment que la méthode de normalisation des comptages, ainsi que la qualité de la matrice de signature caractérisant les types cellulaires ont un impact considérable sur les résultats.
-- 12-13h30 Pause déjeuner
+<p>Résumé : On s&rsquo;intéresse à un <a href="https://doi.org/10.1038/s42003-020-01543-7">jeu de données transcriptomiques dans lequel la cinétique d&rsquo;infection par la fièvre Lassa est étudiée</a>. Les chercheurs s&rsquo;intéressent à la comparaison de la pénétrance du virus dans différents tissus et organes. En particulier, ils s&rsquo;intéressent à l&rsquo;inférence des proportions de types cellulaires pour différentes souches du virus. Dans cet exposé, nous présenterons brièvement les données et leur plan d&rsquo;expériences, puis nous présenterons une comparaison des différentes méthodes de déconvolution que nous avons appliquées (dont CIBERSORT, méthode vraisemblablement la plus connue/utilisée) et enfin des éléments d&rsquo;interprétation des résultats de ces analyses. Nous verrons notamment que la méthode de normalisation des comptages, ainsi que la qualité de la matrice de signature caractérisant les types cellulaires ont un impact considérable sur les résultats.<br>
+- 12-13h30 Pause déjeuner<br>
 - 13h30 <strong>Medepir - un guide pour la déconvolution non-supervisée de données de méthylation de l&rsquo;ADN</strong>
 Clémentine Decamps (TIMC-IMAG, UMR 5525, Univ. Grenoble Alpes, CNRS)</p>
-<p>Résumé : En partant du constat qu&rsquo;il n&rsquo;existait pas dans la littérature de benchmark de ces méthodes, nous nous sommes lancés dans leur comparaison, et dans l&rsquo;évaluation de l&rsquo;intérêt du pré-traitement des données à travers un &ldquo;data challenge&rdquo; organisé en 2018. Des suites de ce travail, nous avons tiré un package, Medepir, regroupant les connaissances acquises sur des jeux de simulations. Au-delà de la problématique initiale, se pose ensuite la question du benchmarking des méthodes de déconvolution en général, de la reproductibilité et de l&rsquo;intégration des nouveaux jeux de données / méthodes.
+<p>Résumé : En partant du constat qu&rsquo;il n&rsquo;existait pas dans la littérature de benchmark de ces méthodes, nous nous sommes lancés dans leur comparaison, et dans l&rsquo;évaluation de l&rsquo;intérêt du pré-traitement des données à travers un &ldquo;data challenge&rdquo; organisé en 2018. Des suites de ce travail, nous avons tiré un package, Medepir, regroupant les connaissances acquises sur des jeux de simulations. Au-delà de la problématique initiale, se pose ensuite la question du benchmarking des méthodes de déconvolution en général, de la reproductibilité et de l&rsquo;intégration des nouveaux jeux de données / méthodes.<br>
 - 14h30 <strong>Retour d&rsquo;expérience sur l’utilisation de l’algorithme CIBERSORT pour l’estimation de l’abondance de populations cellulaires à partir de données transcriptomiques</strong>
 Boris Hejblum (Inserm U1219 Bordeaux Population Health, Inria BSO, Université de Bordeaux)</p>
-<p>Résumé : Application de Cibersort (<a href="https://doi.org/10.1038/s41587-019-0114-2">https://doi.org/10.1038/s41587-019-0114-2</a>) dans le cadre d&rsquo;un essai clinique (COVERAGE Immuno) de suivi de patients COVID où nous disposons à la fois de données de transcriptomiques et de données de populations cellulaires.</p>
-<h3 id="quelques-références">Quelques références</h3>
-<p>Shen-Orr, S., Tibshirani, R., Khatri, P. et al. Cell type–specific gene expression differences in complex tissues. Nat Methods 7, 287–289 (2010). <a href="https://doi.org/10.1038/nmeth.1439">https://doi.org/10.1038/nmeth.1439</a></p>
+<p>Résumé : Application de Cibersort dans le cadre d&rsquo;un essai clinique (COVERAGE Immuno) de suivi de patients COVID où nous disposons à la fois de données de transcriptomiques et de données de populations cellulaires.</p>
+<h4 id="quelques-références">Quelques références</h4>
+<p><strong>WLasso:</strong> <a href="https://cran.r-project.org/package=WLasso/">package R WLasso</a><br>
+W. Zhu, C. Levy-Leduc, N. Ternes. <strong>A variable selection approach for highly correlated predictors
+in high-dimensional genomic data.</strong> <a href="https://arxiv.org/abs/2007.10768">arXiv:2007.10768</a></p>
+<p><strong>Medepir:</strong> <a href="https://github.com/bcm-uga/medepir">package R medepir</a><br>
+Decamps, C., Privé, F., Bacher, R. et al. <strong>Guidelines for cell-type heterogeneity quantification based on a comparative analysis of reference-free DNA methylation deconvolution software.</strong> <em>BMC Bioinformatics</em> 21, 16 (2020). <a href="https://doi.org/10.1186/s12859-019-3307-2">doi.org/10.1186/s12859-019-3307-2</a></p>
+<p>Baillet, N., Reynard, S., Perthame, E. et al. Systemic viral spreading and defective host responses are associated with fatal Lassa fever in macaques. Commun Biol 4, 27 (2021). <a href="https://doi.org/10.1038/s42003-020-01543-7">doi.org/10.1038/s42003-020-01543-7</a><br>
+Shen-Orr, S., Tibshirani, R., Khatri, P. et al. <strong>Cell type–specific gene expression differences in complex tissues.</strong> <em>Nat Methods</em> 7, 287–289 (2010). <a href="https://doi.org/10.1038/nmeth.1439">doi.org/10.1038/nmeth.1439</a></p>
+<p><strong>Cibersort:</strong>
+Newman, A.M., Steen, C.B., Liu, C.L. et al. <strong>Determining cell type abundance and expression from bulk tissues with digital cytometry.</strong> <em>Nat Biotechnol</em> 37, 773–782 (2019). <a href="https://doi.org/10.1038/s41587-019-0114-2">doi.org/10.1038/s41587-019-0114-2</a></p>
 
     </div>
   </article>

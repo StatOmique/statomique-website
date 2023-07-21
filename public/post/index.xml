@@ -1,18 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on StatOmique</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on StatOmique</description>
+    <title>Posts on statomique</title>
+    <link>https://statomique.netlify.app/post/</link>
+    <description>Recent content in Posts on statomique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://statomique.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Méthodes de déconcolution</title>
-      <link>/2021/11/16/deconvolution/</link>
+      <title>Journées du GDR BIM</title>
+      <link>https://statomique.netlify.app/2023/07/19/journeegdrbim/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/2023/07/19/journeegdrbim/</guid>
+      <description>Le GDR BioInformatique Moléculaire organise des journées du 20 au 24 novembre 2023 à Lille, comprenant une journée scientifique plénière le 22/11 commune à l&amp;rsquo;ensemble des groupes de travail (GT) dont le thème est &amp;ldquo;Apprentissage pour la bioinformatique&amp;rdquo; et des journées spécifiques à chaque GT. A noter la journée du groupe machine learning pour la génomique (LEGO) le 23 novembre.
+Journée StatOmique La journée organisée par StatOmique est prévue le 21 novembre.</description>
+    </item>
+    
+    <item>
+      <title>Analyses factorielles</title>
+      <link>https://statomique.netlify.app/2023/03/30/anafactorielles/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/2023/03/30/anafactorielles/</guid>
+      <description>Le Jeudi 30 Mars 2023 a eu lieu sur le centre INRAE de Jouy-en-Josas une journée StatOmique, sur le thème des analyses factorielles.
+Cette journée était consacrée aux analyses factorielles et à leur efficacité computationnelle au regard des enjeux liés à l’intégration de données hétérogènes et de grande dimension. Nous remercions tous les orateurs et participants.
+Programme  13h30 Accueil - café 13h45 Denis Laloë : De la diversité des bovins (GALIMED) au comportement des truies (WHATSOW) : un voyage au pays des analyses factorielles 14h00 Stéphane Dray : De l&amp;rsquo;écologie des communautés à la génomique : apport des méthodes d&amp;rsquo;analyses multivariées 14h50 Stéphanie Bougeard : Analyses factorielles multiblocs supervisées 15h40 Pause 16h10 Julien Chiquet : ACP probabiliste pour données de comptages et extensions à l&amp;rsquo;aide du modèle Poisson lognormal multivarié  site de PLNmodels</description>
+    </item>
+    
+    <item>
+      <title>Analyse différentielle d’expression de gènes</title>
+      <link>https://statomique.netlify.app/2022/10/25/newrnaseq/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://statomique.netlify.app/2022/10/25/newrnaseq/</guid>
+      <description>Le mardi 25 octobre a eu lieu une animation du groupe de travail StatOmique soutenu par le gdr BioInformatique Moléculaire, autour de l&amp;rsquo;analyse différentielle d&amp;rsquo;expression de gènes sur le nouveau campus Agro Paris-Saclay, 22 place de l&amp;rsquo;Agronomie à Palaiseau (coordonnées GPS: 48.71401 2.1964).
+Les infos pour venir sur le campus depuis le site de l&amp;rsquo;école ici
+Programme   10h Accueil
+  10h30 Introduction et tour de table
+  10h45 Benchmark of Differential Gene Expression Analysis Methods for Inter-species RNA-Seq Data using a Phylogenetic Simulation Framework, Paul Bastide, IMAG – UMR 5149</description>
+    </item>
+    
+    <item>
+      <title>Sélection de variables et méthodes de déconvolution</title>
+      <link>https://statomique.netlify.app/2021/11/16/deconvolution/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/11/16/deconvolution/</guid>
+      <guid>https://statomique.netlify.app/2021/11/16/deconvolution/</guid>
       <description>Programme de la journée   9h30 Accueil café
   10h A variable selection approach for highly correlated predictors in high-dimensional data Wencan Zhu (UMR MIA-Paris, AgroParisTech, INRAE – Université Paris-Saclay, Sanofi R&amp;amp;D)
   Résumé : In genomic studies, identifying biomarkers associated with a variable of interest is a major concern in biomedical research. Regularized approaches are classically used to performvariable selection in high-dimensional linear models. However, these methods can fail in highly correlated settings.</description>
@@ -20,20 +54,20 @@
     
     <item>
       <title>Kernel methods in systems biology</title>
-      <link>/2021/04/06/kernel-methods-in-systems-biology/</link>
+      <link>https://statomique.netlify.app/2021/04/06/kernel-methods-in-systems-biology/</link>
       <pubDate>Tue, 06 Apr 2021 21:13:14 -0500</pubDate>
       
-      <guid>/2021/04/06/kernel-methods-in-systems-biology/</guid>
+      <guid>https://statomique.netlify.app/2021/04/06/kernel-methods-in-systems-biology/</guid>
       <description>Jérôme Mariette : Kernel methods in systems biology Plateforme Genotoul Bioinfo, Unité de Mathématique et Informatique Appliquées de Toulouse, INRAE
 The development of high-throughput sequencing technologies has lead to produce high dimensional heterogeneous datasets at different living scales. To process such data, integrative methods have been shown to be relevant, but still remain challenging. Here, we propose contributions useful to simultaneously explore heterogeneous multi-omics datasets and to select relevant features in a dataset.</description>
     </item>
     
     <item>
       <title>Analyse de données transcriptomiques</title>
-      <link>/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</link>
+      <link>https://statomique.netlify.app/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</link>
       <pubDate>Thu, 19 Nov 2020 21:49:57 -0700</pubDate>
       
-      <guid>/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</guid>
+      <guid>https://statomique.netlify.app/2020/11/19/analyse-de-donn%C3%A9es-transcriptomiques/</guid>
       <description>Programme de cette première animation en mode distanciel   9h45 Accueil et Tour de table dans le chat
   10h15 Méthodes d&amp;rsquo;identification de différence de variance dans des données RNA-seq, Christophe Le Priol
   Résumé : La majorité des études sur l&amp;rsquo;expression des gènes cherchent à identifier des gènes présentant des différences de moyenne d’expression entre plusieurs populations d’échantillons. Cependant, à l’instar d’une différence de moyenne, une différence de variance d&amp;rsquo;expression de gènes peut avoir un sens biologique et physiologique.</description>
@@ -41,14 +75,13 @@ The development of high-throughput sequencing technologies has lead to produce h
     
     <item>
       <title>StatOmique fête ses 10 ans</title>
-      <link>/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</link>
+      <link>https://statomique.netlify.app/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</link>
       <pubDate>Tue, 05 Nov 2019 13:09:13 -0600</pubDate>
       
-      <guid>/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</guid>
+      <guid>https://statomique.netlify.app/2019/11/05/statomique-f%C3%AAte-ses-10-ans/</guid>
       <description>Le 5 novembre 2019, précédant la journée du Gdr BioInformatique Moléculaire, s&amp;rsquo;est tenue une journée d&amp;rsquo;animation pour les 10 ans du groupe StatOmique.
-Programme :
-Matin
-10h00-10h15 Introduction de la matinée 10h15-10h40 Perrine Soret, retour d’expériences sur le clustering sur de données RNASeq 10h40-11h00 Luc Jouneau, présentation de la procédure de tests multiples ‘Independent hypothesis weighting (IHW)’ 11h00-11h30 Marine Gauthier, ‘Conditional cumulative distribution function estimation for differential gene expression analysis in single-cell RNA-seq data’ 11h30-12h00 Julie Aubert, présentation des ressources mises à disposition par le groupe StateoftheR 12h00-12h15 Laurent Duval, An epigenetic data processing bud @ StatOmique ?</description>
+Programme Matin
+10h00-10h15 Introduction de la matinée 10h15-10h40 Perrine Soret, retour d’expériences sur le clustering sur de données RNASeq 10h40-11h00 Luc Jouneau, présentation de la procédure de tests multiples ‘Independent hypothesis weighting (IHW)’ 11h00-11h30 Marine Gauthier, Conditional cumulative distribution function estimation for differential gene expression analysis in single-cell RNA-seq data 11h30-12h00 Julie Aubert, présentation des ressources mises à disposition par le groupe StateoftheR 12h00-12h15 Laurent Duval, An epigenetic data processing bud @ StatOmique ?</description>
     </item>
     
   </channel>
