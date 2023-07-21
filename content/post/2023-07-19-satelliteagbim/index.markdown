@@ -1,15 +1,18 @@
 ---
-title: Journée satellite AG Gdr BiM
+title: Journées du GDR BIM
 author: ''
 date: '2023-07-19'
 slug: satelliteagbim
 categories: [workshop]
 tags: [transcriptomique, mutli-omiques, données manquantes]
 ---
+<img src="../../../../media/LOGO-GDR_BIM_Vecto.png" width="200">
 
-StatOmique organise une animation le **21 novembre** dans le cadre des journées du [GDR BIM](http://www.gdr-bim.cnrs.fr) qui auront lieu du **20 au 24 novembre 2023** à **Lille**.
+Le GDR BioInformatique Moléculaire organise des [journées du **20 au 24 novembre 2023**](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/) à **Lille**, comprenant une journée scientifique plénière le 22/11 commune à l'ensemble des groupes de travail (GT) dont le thème est **"Apprentissage pour la bioinformatique"** et des journées spécifiques à chaque GT. A noter la journée du groupe machine learning pour la génomique ([LEGO](https://gt-lego.cnrs.fr/)) le 23 novembre.
 
-Nous souhaitons offrir un lieu d'échange et de partage où vous pourrez présenter vos dernières recherches, découvrir de nouvelles idées et établir des collaborations fructueuses.
+## Journée StatOmique
+
+La journée organisée par StatOmique est prévue le **21 novembre**. Nous souhaitons offrir un lieu d'échange et de partage où vous pourrez présenter vos dernières recherches, découvrir de nouvelles idées et établir des collaborations fructueuses.
 
 ### Thématiques privilégiées
 
@@ -38,11 +41,13 @@ Nous vous invitons à soumettre votre contribution à Christelle et Julie, en pr
 
 La date limite de soumission est fixée au **20 septembre**. N'hésitez pas à nous contacter si vous avez des questions.
 
-### Inscription
-
-Les inscriptions seront ouvertes prochainement et seront gérées par le GdR BIM.
-
-
 #### Comité de programme et d’organisation
 
 Julie Aubert, Marie-Agnès Dillies, Christelle Hennequet-Antier, Guillemette Marot
+
+## Inscriptions
+
+Les inscriptions pour les journées seront ouvertes prochainement et seront gérées par le GdR BIM.
+
+
+
