@@ -1,3 +1,9 @@
 http://statomique.netlify.app/*    https://statomique.github.io/:splat  301!
 https://statomique.netlify.app/*    https://statomique.github.io/:splat  301!
+https://statomique.netlify.app/2023/03/30/anafactorielles/    https://statomique.github.io/posts/2023-02-17-anafactorielles/:splat  301!
 
+https://statomique.netlify.app/about/    https://statomique.github.io/ 301!
+https://statomique.netlify.app/post/    https://statomique.github.io/animations.html 301!
+https://statomique.netlify.app/communaute/    https://statomique.github.io/communaute.html 301!
+https://statomique.netlify.app/communications/    https://statomique.github.io/communications.html 301!
+https://statomique.netlify.app/apropos/    https://statomique.github.io/apropos.html 301!
