@@ -16,7 +16,3 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production.environment]
 HUGO_ENV = 'production'
 
-[[redirects]]
-  from = "https://statomique.netlify.app/"
-  to = "https://statomique.github.io/"
-  status = 301

@@ -1,0 +1,7 @@
+http://statomique.netlify.app/*    https://statomique.netlify.app/:splat  301!
+https://statomique.netlify.app/*    https://statomique.github.io/:splat  301!
+https://statomique.netlify.app/about/*    https://statomique.github.io/:splat  301!
+https://statomique.netlify.app/post/*    https://statomique.github.io/posts/:splat  301!
+https://statomique.netlify.app/communaute/*    https://statomique.github.io/:splat  301!
+https://statomique.netlify.app/communications/*    https://statomique.github.io/:splat  301!
+https://statomique.netlify.app/apropos/*    https://statomique.github.io/apropos:splat  301!
